@@ -3,7 +3,7 @@ fabric-v2.2-for-mdl-explorer-test
 ---
 
 ### Summary
-- Test Fabric Network v2.2 for Mdl-explorer
+- Fabric Network v2.2 for Testing Mdl-explorer
 
 ### Test Environment
 - AWS EC2 Instance t2.xlarge
